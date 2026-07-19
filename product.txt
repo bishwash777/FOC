@@ -1,0 +1,5 @@
+vitamin c serum,  Garnier,200,1000,  France
+skin cleanser,  Cetaphil,100,280,  Switzerland
+sunscreen,  Aqualogica,200,700,  India
+moisturizer,  Neutrogena,150,850,  USA
+Face wash, aqua,100,150, nepal
